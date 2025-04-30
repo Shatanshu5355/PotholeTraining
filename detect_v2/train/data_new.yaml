@@ -1,0 +1,6 @@
+train: /kaggle/input/pothole-detection-yolo/Final_Data_split/train/images
+test: /kaggle/input/pothole-detection-yolo/Final_Data_split/test/images
+val: /kaggle/input/pothole-detection-yolo/Final_Data_split/val/images
+
+nc: 1
+names: ['pothole']
